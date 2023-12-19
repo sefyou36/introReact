@@ -1,6 +1,13 @@
 #test {
   max-width: 1280px;
+  
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
 }
+
+
+/* div:last-child{
+  position: absolute ;
+  left: 550px;
+} */
